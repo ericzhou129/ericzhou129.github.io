@@ -1,4 +1,14 @@
+---
+layout: post
+title:  "A Python Refresher"
+date:   2017-06-25 22:45:00 -0700
+categories: programming
+---
 # Python Review
+After weeks of learning Ruby's rails full stack framework and feeling increasing frustrated with the ruby "magic", I decided to go back to python and give Django a try. Before this, here is a quick refresher of some Python basics.  
+
+This post can be used as a python syntax reference and will be continually updated. 
+
 The following review notes are compiled based on [Google for Education's Python resource](https://developers.google.com/edu/python/)
 
 
